@@ -1,0 +1,9 @@
+# PAYMENT LINK - SINGLE SOURCE OF TRUTH
+
+# This file contains the payment link that activates the revenue engine.
+# When this file has a valid link, the system switches from MANUAL_CLOSE_MODE to AUTOMATED_CHECKOUT_MODE.
+
+# STATUS: ACTIVE
+# MODE: AUTOMATED_CHECKOUT_MODE
+
+PAYPAL_ME_LINK=https://www.paypal.me/SleepWell77
